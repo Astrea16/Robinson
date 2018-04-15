@@ -1,0 +1,41 @@
+
+@font-face{
+	font-family: 'GothamProBold';
+	src: url('../fonts/GothamProBold/GothamProBold.eot');
+	src: url('../fonts/GothamProBold/GothamProBold.eot?iefix') format('eot');
+	src: url('../fonts/GothamProBold/GothamProBold.woff') format('woff');
+	src: url('../fonts/GothamProBold/GothamProBold.ttf') format('truetype');
+	src: url('../fonts/GothamProBold/GothamProBold.svg#webfont') format('svg');
+	font-weight: bold;
+	font-style: normal;
+}
+@font-face{
+	font-family: 'MyriadPro-Regular';
+	src: url('../fonts/MyriadProRegular/MyriadPro-Regular.eot');
+	src: url('../fonts/MyriadProRegular/MyriadPro-Regular.eot?iefix') format('eot');
+	src: url('../fonts/MyriadProRegular/MyriadPro-Regular.woff') format('woff');
+	src: url('../fonts/MyriadProRegular/MyriadPro-Regular.ttf') format('truetype');
+	src: url('../fonts/MyriadProRegular/MyriadPro-Regular.otf')  format('opentype');
+	font-weight: normal;
+	font-style: normal;
+}
+@font-face{
+	font-family: 'MyriadProBold';
+	src: url('../fonts/MyriadProBold/MyriadProBold.eot');
+	src: url('../fonts/MyriadProBold/MyriadProBold.eot?iefix') format('eot');
+	src: url('../fonts/MyriadProBold/MyriadProBold.woff') format('woff');
+	src: url('../fonts/MyriadProBold/MyriadProBold.ttf') format('truetype');
+	src: url('../fonts/MyriadProBold/MyriadProBold.otf')  format('opentype');
+	font-weight: 700;
+	font-style: normal;
+}
+@font-face{
+	font-family: 'MyriadProLight';
+	src: url('../fonts/MyriadProLight/MyriadPro-Light.eot');
+	src: url('../fonts/MyriadProLight/MyriadPro-Light.eot?iefix') format('eot');
+	src: url('../fonts/MyriadProLight/MyriadPro-Light.woff') format('woff');
+	src: url('../fonts/MyriadProLight/MyriadPro-Light.ttf') format('truetype');
+	src: url('../fonts/MyriadProLight/MyriadPro-Light.otf')  format('opentype');
+	font-weight: normal;
+	font-style: normal;
+}
