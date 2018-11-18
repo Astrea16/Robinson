@@ -1599,7 +1599,7 @@ input[type=text], input[type=email], input[type=tel], select, input[type=submit]
 .form-large input, .form-large select{
   max-width: 191px;
 }
-#company, #ad-ress, #first-name, #last-name{
+#company, #adress, #first-name, #last-name{
   max-width: 191px;
 }
 #code ~ a ~span {

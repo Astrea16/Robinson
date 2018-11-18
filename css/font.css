@@ -5,7 +5,7 @@
 	src: url('../fonts/GothamProBold/GothamProBold.eot?iefix') format('eot');
 	src: url('../fonts/GothamProBold/GothamProBold.woff') format('woff');
 	src: url('../fonts/GothamProBold/GothamProBold.ttf') format('truetype');
-	src: url('../fonts/GothamProBold/GothamProBold.svg#webfont') format('svg');
+	src: url('../fonts/GothamProBold/GothamProBold.svg#GothamProBold') format('svg');
 	font-weight: bold;
 	font-style: normal;
 }
